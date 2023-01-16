@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f668161f-e3ae-4818-80e5-f3eaa50e3c5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LogInPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ValidTest.java" afterDir="false" />
+    <list default="true" id="f668161f-e3ae-4818-80e5-f3eaa50e3c5e" name="Changes" comment="ready">
+      <change beforePath="$PROJECT_DIR$/src/test/java/ValidTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ValidTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +74,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673906255226</updated>
-      <workItem from="1673906257944" duration="4328000" />
+      <workItem from="1673906257944" duration="4654000" />
     </task>
+    <task id="LOCAL-00001" summary="ready">
+      <created>1673911846603</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673911846603</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,5 +99,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready" />
   </component>
 </project>
